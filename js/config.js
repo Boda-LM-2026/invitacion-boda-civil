@@ -6,7 +6,7 @@ const CONFIG = {
 
     fecha: "2026-10-18T16:00:00",
 
-    whatsapp: "50237993965",
+    whatsapp: "50247350355",
 
     iglesiaGoogleMaps: "https://www.google.com/maps/search/?api=1&query=14.9867916,-89.716713",
     iglesiaWaze: "https://waze.com/ul/hd48jq2q0r",
